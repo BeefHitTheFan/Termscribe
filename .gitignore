@@ -24,7 +24,13 @@ hs_err_pid*
 replay_pid*
 
 # Target Maven files
-target/
+.target/
 
 # Personal VS code settings
 .vscode/
+
+# Implementation Plan
+Termscribe Implementation Plan.pdf
+
+# Apple MacOS Metadata file
+.DS_Store
